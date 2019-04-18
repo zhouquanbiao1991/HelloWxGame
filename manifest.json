@@ -9,9 +9,13 @@
 	],
 	"game": [
 		"bin-debug/AssetAdapter.js",
+		"bin-debug/Config.js",
+		"bin-debug/GameRect.js",
 		"bin-debug/LoadingUI.js",
 		"bin-debug/Main.js",
+		"bin-debug/MainScene.js",
 		"bin-debug/Platform.js",
-		"bin-debug/ThemeAdapter.js"
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/Vector2.js"
 	]
 }
